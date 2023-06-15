@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/28 11:07:39.000.045,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/28 11:08:39.000.202,C:\Users\harim\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\harim\Documents\Embarcadero\Studio\Projects\utama.pas</Transaction>
+    <Transaction>2023/05/28 11:08:39.000.202,C:\Users\harim\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\harim\Documents\Embarcadero\Studio\Projects\utama.dfm</Transaction>
+    <Transaction>2023/05/28 11:08:46.000.940,C:\Users\harim\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\harim\Documents\Embarcadero\Studio\Projects\muhammadramadhan.dproj</Transaction>
+    <Transaction>2023/05/28 11:55:37.000.553,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas</Transaction>
+    <Transaction>2023/05/28 11:56:12.000.768,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\perkenalanmadan.pas=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas</Transaction>
+    <Transaction>2023/05/28 11:56:12.000.768,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\perkenalanmadan.dfm=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.dfm</Transaction>
+    <Transaction>2023/05/28 12:14:35.000.938,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\latihan3.pas</Transaction>
+    <Transaction>2023/05/28 12:17:14.000.031,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\kalkulator.pas</Transaction>
+    <Transaction>2023/05/28 12:17:22.000.111,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\kalkulator2.pas</Transaction>
+    <Transaction>2023/05/28 12:17:30.000.492,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\hutunggrade.pas</Transaction>
+    <Transaction>2023/05/28 12:17:36.000.881,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\hitunggrade2.pas</Transaction>
+    <Transaction>2023/05/28 20:24:40.000.783,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas</Transaction>
+    <Transaction>2023/05/28 20:32:50.000.302,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.dfm=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\tugas.dfm</Transaction>
+    <Transaction>2023/05/28 20:32:50.000.302,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\tugas.pas</Transaction>
+    <Transaction>2023/05/28 22:22:04.000.094,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\utama.pas=</Transaction>
+    <Transaction>2023/05/28 22:22:19.000.016,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\utama.pas</Transaction>
+    <Transaction>2023/05/29 08:06:28.000.270,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas</Transaction>
+    <Transaction>2023/05/29 08:19:27.000.609,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\looping1.pas</Transaction>
+    <Transaction>2023/05/29 08:19:27.000.609,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.dfm=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\looping1.dfm</Transaction>
+    <Transaction>2023/05/29 10:56:45.000.185,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas</Transaction>
+    <Transaction>2023/05/29 11:13:30.000.597,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\database.pas</Transaction>
+    <Transaction>2023/05/29 11:13:30.000.597,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.dfm=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\database.dfm</Transaction>
+    <Transaction>2023/05/29 11:46:31.000.349,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas</Transaction>
+    <Transaction>2023/05/29 11:46:55.000.274,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\datamodule.pas=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas</Transaction>
+    <Transaction>2023/05/29 11:46:55.000.274,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\datamodule.dfm=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.dfm</Transaction>
+    <Transaction>2023/05/29 11:50:49.000.282,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\datamodule.pas=</Transaction>
+    <Transaction>2023/06/08 11:15:50.000.702,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas</Transaction>
+    <Transaction>2023/06/08 11:16:09.000.486,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\looping2.pas</Transaction>
+    <Transaction>2023/06/08 11:16:09.000.486,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.dfm=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\looping2.dfm</Transaction>
+    <Transaction>2023/06/08 11:30:13.000.698,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas</Transaction>
+    <Transaction>2023/06/08 11:31:56.000.138,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.dfm=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\looping3.dfm</Transaction>
+    <Transaction>2023/06/08 11:31:56.000.138,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\looping3.pas</Transaction>
+    <Transaction>2023/06/08 13:39:49.000.923,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas</Transaction>
+    <Transaction>2023/06/08 14:07:48.000.221,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\grafikk.pas</Transaction>
+    <Transaction>2023/06/08 14:07:48.000.221,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.dfm=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\grafikk.dfm</Transaction>
+    <Transaction>2023/06/08 14:21:25.000.850,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\grafikk.pas=</Transaction>
+    <Transaction>2023/06/10 10:25:50.000.721,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\grafikk.pas</Transaction>
+    <Transaction>2023/06/10 10:30:50.000.625,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\grafikk.pas=</Transaction>
+    <Transaction>2023/06/10 10:33:18.000.338,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas</Transaction>
+    <Transaction>2023/06/10 10:33:54.000.221,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.dfm=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\grafikk.dfm</Transaction>
+    <Transaction>2023/06/10 10:33:54.000.221,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\grafikk.pas</Transaction>
+    <Transaction>2023/06/10 15:32:12.000.503,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas</Transaction>
+    <Transaction>2023/06/10 15:32:47.000.791,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.dfm=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\grafik11.dfm</Transaction>
+    <Transaction>2023/06/10 15:32:47.000.791,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\grafik11.pas</Transaction>
+    <Transaction>2023/06/15 14:06:17.208,=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas</Transaction>
+    <Transaction>2023/06/15 14:21:09.087,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\profile.pas=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.pas</Transaction>
+    <Transaction>2023/06/15 14:21:09.087,C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\profile.dfm=C:\Users\harim\Documents\Embarcadero\Studio\Projects\PRAKTIKUM\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
